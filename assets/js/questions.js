@@ -30,12 +30,12 @@ window.INARA_QUIZ = [
     ] },
   { id: "sentir", type: "single", icon: "mood", title: "¿Cómo quieres sentirte?", hint: "Elige la que más te represente hoy.",
     options: [
-      { id: "fresca", label: "Fresca y despierta", icon: "wb_sunny", add: { CITRICO: 2, VERDE: 1, ACUATICO: 1 } },
-      { id: "tranquila", label: "Tranquila y envolvente", icon: "spa", add: { MUSK: 2, FLORAL: 1, GOURMAND: 1 } },
-      { id: "sensual", label: "Sensual y misteriosa", icon: "nightlife", add: { AMBAR: 2, GOURMAND: 1, AMADERADO: 1 } },
-      { id: "alegre", label: "Alegre y juguetona", icon: "celebration", add: { CITRICO: 1, FLORAL: 1, GOURMAND: 1 } },
-      { id: "elegante", label: "Elegante y segura", icon: "diamond", add: { FLORAL: 1, AMADERADO: 1, MUSK: 1 } },
-      { id: "natural", label: "Natural y conectada con la tierra", icon: "eco", add: { VERDE: 2, AMADERADO: 1 } }
+      { id: "fresca", label: "Energía fresca y despierta", icon: "wb_sunny", add: { CITRICO: 2, VERDE: 1, ACUATICO: 1 } },
+      { id: "tranquila", label: "Calma y bienestar", icon: "spa", add: { MUSK: 2, FLORAL: 1, GOURMAND: 1 } },
+      { id: "sensual", label: "Sensualidad y misterio", icon: "nightlife", add: { AMBAR: 2, GOURMAND: 1, AMADERADO: 1 } },
+      { id: "alegre", label: "Alegría y juego", icon: "celebration", add: { CITRICO: 1, FLORAL: 1, GOURMAND: 1 } },
+      { id: "elegante", label: "Elegancia y seguridad", icon: "diamond", add: { FLORAL: 1, AMADERADO: 1, MUSK: 1 } },
+      { id: "natural", label: "Conexión con la naturaleza", icon: "eco", add: { VERDE: 2, AMADERADO: 1 } }
     ] },
   { id: "ocasion", type: "single", icon: "event", title: "¿Cuándo lo usarás más?", hint: "",
     options: [

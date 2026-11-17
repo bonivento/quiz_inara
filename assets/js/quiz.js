@@ -51,7 +51,7 @@
       const sel = a || [];
       body = `<div class="grid gap-3 sm:grid-cols-2">` + q.options.map((o) =>
         `<button class="opt" aria-pressed="${sel.includes(o.id)}" data-id="${o.id}">${icon(o.icon, "opt-icon")}<span><span class="block text-body-md font-medium">${esc(o.label)}</span>${o.sub ? `<span class="block text-body-sm text-on-surface-variant">${esc(o.sub)}</span>` : ""}</span></button>`).join("") + `</div>` +
-        (q.none ? `<button class="chip mt-4" aria-pressed="${Array.isArray(a) && a.length === 0 && state.noneEvita}" id="none">Ninguna, soy flexible</button>` : "") +
+        (q.none ? `<button class="chip mt-4" aria-pressed="${Array.isArray(a) && a.length === 0 && state.noneEvita}" id="none">Ninguna, sin restricciones</button>` : "") +
         `<p class="mt-3 text-body-sm text-outline" aria-live="polite">${sel.length}/${q.max} elegidas</p>`;
     } else if (q.type === "search") {
       const fav = a && CATALOG.find((p) => p.id === a);
