@@ -1,0 +1,660 @@
+[
+ {
+  "id": "carolina-herrera-good-girl",
+  "brand": "Carolina Herrera",
+  "name": "Good Girl",
+  "concentration": "EDP",
+  "year": 2016,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "almendra"
+   ],
+   "middle": [
+    "jazmín sambac",
+    "tuberosa"
+   ],
+   "base": [
+    "haba tonka",
+    "cacao"
+   ]
+  },
+  "source": "https://www.carolinaherrera.com/ww/en/p-fragrance/good-girl-eau-de-parfum",
+  "verified": true
+ },
+ {
+  "id": "lancome-la-vie-est-belle",
+  "brand": "Lancôme",
+  "name": "La Vie Est Belle",
+  "concentration": "EDP",
+  "year": 2012,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "iris"
+   ],
+   "middle": [
+    "pachulí"
+   ],
+   "base": [
+    "azúcar hilado",
+    "vainilla"
+   ]
+  },
+  "source": "https://www.ulta.com/p/la-vie-est-belle-eau-de-parfum-xlsImpprod4570079",
+  "verified": true
+ },
+ {
+  "id": "yves-saint-laurent-libre",
+  "brand": "Yves Saint Laurent",
+  "name": "Libre",
+  "concentration": "EDP",
+  "year": 2019,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "lavanda"
+   ],
+   "middle": [
+    "azahar"
+   ],
+   "base": [
+    "almizcle",
+    "vainilla"
+   ]
+  },
+  "source": "https://www.ulta.com/p/libre-eau-de-parfum-pimprod2008599",
+  "verified": true
+ },
+ {
+  "id": "yves-saint-laurent-libre-intense",
+  "brand": "Yves Saint Laurent",
+  "name": "Libre Intense",
+  "concentration": "EDP",
+  "year": 2021,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "lavanda"
+   ],
+   "middle": [
+    "azahar",
+    "orquídea"
+   ],
+   "base": [
+    "vainilla"
+   ]
+  },
+  "source": "https://www.sephora.com/product/yves-saint-laurent-libre-eau-de-parfum-intense-P462417",
+  "verified": true
+ },
+ {
+  "id": "yves-saint-laurent-black-opium",
+  "brand": "Yves Saint Laurent",
+  "name": "Black Opium",
+  "concentration": "EDP",
+  "year": 2014,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "café"
+   ],
+   "middle": [
+    "flores blancas"
+   ],
+   "base": [
+    "vainilla"
+   ]
+  },
+  "source": "https://www.ulta.com/p/black-opium-eau-de-parfum-xlsImpprod12951153",
+  "verified": true
+ },
+ {
+  "id": "chanel-coco-mademoiselle",
+  "brand": "Chanel",
+  "name": "Coco Mademoiselle",
+  "concentration": "EDP",
+  "year": 2001,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "naranja"
+   ],
+   "middle": [
+    "jazmín",
+    "rosa"
+   ],
+   "base": [
+    "pachulí",
+    "vetiver"
+   ]
+  },
+  "source": "https://www.chanel.com/us/fragrance/p/116570/coco-mademoiselle-eau-de-parfum-spray/",
+  "verified": true
+ },
+ {
+  "id": "mugler-alien",
+  "brand": "Mugler",
+  "name": "Alien",
+  "concentration": "EDP",
+  "year": 2005,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "jazmín sambac"
+   ],
+   "middle": [
+    "cashmeran"
+   ],
+   "base": [
+    "ámbar blanco"
+   ]
+  },
+  "source": "https://www.mugler.com/fragrance/womens-fragrances/alien/alien-hypersense-eau-de-parfum/M020604329.html",
+  "verified": true
+ },
+ {
+  "id": "dolce-gabbana-light-blue",
+  "brand": "Dolce&Gabbana",
+  "name": "Light Blue",
+  "concentration": "EDT",
+  "year": 2001,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "limón siciliano"
+   ],
+   "middle": [
+    "manzana"
+   ],
+   "base": [
+    "cedro"
+   ]
+  },
+  "source": "https://www.sephora.com/product/light-blue-eau-de-toilette-P516183",
+  "verified": true
+ },
+ {
+  "id": "marc-jacobs-daisy",
+  "brand": "Marc Jacobs",
+  "name": "Daisy",
+  "concentration": "EDT",
+  "year": 2007,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "frutos silvestres"
+   ],
+   "middle": [
+    "violeta blanca",
+    "jazmín"
+   ],
+   "base": [
+    "sándalo"
+   ]
+  },
+  "source": "https://www.ulta.com/p/daisy-eau-de-toilette-VP12556",
+  "verified": true
+ },
+ {
+  "id": "versace-bright-crystal",
+  "brand": "Versace",
+  "name": "Bright Crystal",
+  "concentration": "EDT",
+  "year": 2006,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "yuzu",
+    "acorde helado",
+    "granada"
+   ],
+   "middle": [
+    "peonía",
+    "magnolia",
+    "flor de loto"
+   ],
+   "base": [
+    "acajú",
+    "ámbar",
+    "almizcle"
+   ]
+  },
+  "source": "https://www.versace.com/us/en/women/accessories/fragrances-body-care/bright-crystal/bright-crystal-edt-90-ml-pink/R510032-R090MLS_RNUL.html",
+  "verified": true
+ },
+ {
+  "id": "mugler-angel",
+  "brand": "Mugler",
+  "name": "Angel",
+  "concentration": "EDP",
+  "year": 1992,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "bergamota"
+   ],
+   "middle": [
+    "praliné",
+    "algodón de azúcar",
+    "miel"
+   ],
+   "base": [
+    "vainilla",
+    "pachulí"
+   ]
+  },
+  "source": "https://www.mugler.com/fragrance/angel-eau-de-parfum-perfume/M010101003.html",
+  "verified": true
+ },
+ {
+  "id": "lancome-idole",
+  "brand": "Lancôme",
+  "name": "Idôle",
+  "concentration": "EDP",
+  "year": 2019,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "bergamota",
+    "pera",
+    "pimienta rosa"
+   ],
+   "middle": [
+    "rosa",
+    "jazmín"
+   ],
+   "base": [
+    "almizcle blanco",
+    "vainilla",
+    "pachulí",
+    "cedro"
+   ]
+  },
+  "source": "https://www.ulta.com/p/idole-eau-de-parfum-pimprod2008623",
+  "verified": true
+ },
+ {
+  "id": "valentino-donna-born-in-roma",
+  "brand": "Valentino",
+  "name": "Donna Born in Roma",
+  "concentration": "EDP",
+  "year": 2019,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "jazmín sambac"
+   ],
+   "middle": [
+    "cashmeran"
+   ],
+   "base": [
+    "vainilla bourbon"
+   ]
+  },
+  "source": "https://www.ulta.com/p/donna-born-in-roma-eau-de-parfum-pimprod2016295",
+  "verified": true
+ },
+ {
+  "id": "rabanne-lady-million",
+  "brand": "Rabanne",
+  "name": "Lady Million",
+  "concentration": "EDP",
+  "year": 2010,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "frambuesa",
+    "neroli"
+   ],
+   "middle": [
+    "jazmín",
+    "azahar",
+    "gardenia"
+   ],
+   "base": [
+    "miel",
+    "pachulí"
+   ]
+  },
+  "source": "https://www.rabanne.com/us/en_US/fragrance/p/lady-million--000000000065051774_BASE",
+  "verified": true
+ },
+ {
+  "id": "calvin-klein-euphoria",
+  "brand": "Calvin Klein",
+  "name": "Euphoria",
+  "concentration": "EDP",
+  "year": 2005,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "granada",
+    "caqui",
+    "acorde verde"
+   ],
+   "middle": [
+    "orquídea negra",
+    "flor de loto"
+   ],
+   "base": [
+    "acorde cremoso",
+    "caoba",
+    "violeta"
+   ]
+  },
+  "source": "https://www.ulta.com/p/euphoria-eau-de-parfum-VP10888",
+  "verified": true
+ },
+ {
+  "id": "ariana-grande-cloud",
+  "brand": "Ariana Grande",
+  "name": "Cloud",
+  "concentration": "EDP",
+  "year": 2018,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "flor de lavanda",
+    "pera",
+    "bergamota"
+   ],
+   "middle": [
+    "crema de coco",
+    "praliné",
+    "orquídea de vainilla"
+   ],
+   "base": [
+    "almizcle",
+    "maderas cremosas"
+   ]
+  },
+  "source": "https://www.ulta.com/p/cloud-eau-de-parfum-pimprod2000100",
+  "verified": true
+ },
+ {
+  "id": "viktor-rolf-good-fortune",
+  "brand": "Viktor&Rolf",
+  "name": "Good Fortune",
+  "concentration": "EDP",
+  "year": 2020,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "hinojo",
+    "genciana"
+   ],
+   "middle": [
+    "jazmín"
+   ],
+   "base": [
+    "vainilla bourbon"
+   ]
+  },
+  "source": "https://us.viktor-rolf.com/discontinued-fragrances/good-fortune-eau-de-parfum-VKR_264.html",
+  "verified": true
+ },
+ {
+  "id": "parfums-de-marly-delina",
+  "brand": "Parfums de Marly",
+  "name": "Delina",
+  "concentration": "EDP",
+  "year": 2017,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "bergamota",
+    "lichi",
+    "ruibarbo"
+   ],
+   "middle": [
+    "rosa damascena",
+    "nuez moscada"
+   ],
+   "base": [
+    "cashmeran",
+    "almizcle",
+    "vetiver"
+   ]
+  },
+  "source": "https://us.parfums-de-marly.com/products/delina",
+  "verified": true
+ },
+ {
+  "id": "dolce-gabbana-the-only-one",
+  "brand": "Dolce&Gabbana",
+  "name": "The Only One",
+  "concentration": "EDP",
+  "year": 2020,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "violeta",
+    "bergamota"
+   ],
+   "middle": [
+    "café",
+    "iris"
+   ],
+   "base": [
+    "vainilla",
+    "pachulí"
+   ]
+  },
+  "source": "https://www.dolcegabbanabeauty.com/perfumes/women/the-only-one-eau-de-parfum/",
+  "verified": true
+ },
+ {
+  "id": "yves-saint-laurent-mon-paris",
+  "brand": "Yves Saint Laurent",
+  "name": "Mon Paris",
+  "concentration": "EDP",
+  "year": 2016,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "fresa",
+    "frambuesa",
+    "bergamota",
+    "calone"
+   ],
+   "middle": [
+    "pera",
+    "azahar",
+    "jazmín sambac",
+    "peonía blanca",
+    "datura"
+   ],
+   "base": [
+    "pachulí",
+    "almizcle blanco",
+    "ambroxan",
+    "cedro",
+    "musgo de cristal"
+   ]
+  },
+  "source": "https://www.ulta.com/p/mon-paris-eau-de-parfum-xlsImpprod14421031",
+  "verified": true
+ },
+ {
+  "id": "prada-paradoxe",
+  "brand": "Prada",
+  "name": "Paradoxe",
+  "concentration": "EDP",
+  "year": 2022,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "bergamota calabresa",
+    "mandarina",
+    "pera"
+   ],
+   "middle": [
+    "neroli",
+    "azahar",
+    "jazmín sambac"
+   ],
+   "base": [
+    "ámbar",
+    "benjuí",
+    "vainilla",
+    "almizcle blanco"
+   ]
+  },
+  "source": "https://www.prada.com/us/en/p/paradoxe-edp-30-ml/1A1351_2HDZ_F0Z99_P_ML030",
+  "verified": true
+ },
+ {
+  "id": "moschino-toy-2",
+  "brand": "Moschino",
+  "name": "Toy 2",
+  "concentration": "EDP",
+  "year": 2021,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "mandarina",
+    "manzana verde"
+   ],
+   "middle": [
+    "magnolia",
+    "jazmín",
+    "peonía",
+    "grosella blanca"
+   ],
+   "base": [
+    "almizcle",
+    "sándalo",
+    "maderas ámbar"
+   ]
+  },
+  "source": "https://www.ulta.com/p/toy-2-eau-de-parfum-pimprod2004623",
+  "verified": true
+ },
+ {
+  "id": "chloe-chloe",
+  "brand": "Chloé",
+  "name": "Chloé",
+  "concentration": "EDP",
+  "year": 2008,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "peonía"
+   ],
+   "middle": [
+    "pétalos de rosa",
+    "magnolia"
+   ],
+   "base": [
+    "cedro",
+    "ámbar gris"
+   ]
+  },
+  "source": "https://www.chloe.com/en-us/p/fragrances/eau-de-parfum/CHCA64980409.html",
+  "verified": true
+ },
+ {
+  "id": "rabanne-fame",
+  "brand": "Rabanne",
+  "name": "Fame",
+  "concentration": "EDP",
+  "year": 2022,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "mango",
+    "bergamota"
+   ],
+   "middle": [
+    "jazmín",
+    "incienso"
+   ],
+   "base": [
+    "sándalo",
+    "vainilla"
+   ]
+  },
+  "source": "https://www.sephora.com/product/fame-eau-de-parfum-P502064",
+  "verified": true
+ },
+ {
+  "id": "ariana-grande-sweet-like-candy",
+  "brand": "Ariana Grande",
+  "name": "Sweet Like Candy",
+  "concentration": "EDP",
+  "year": 2021,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "mora",
+    "bergamota",
+    "pera"
+   ],
+   "middle": [
+    "jazmín sambac",
+    "frangipani",
+    "madreselva"
+   ],
+   "base": [
+    "crema de cassis",
+    "malvavisco",
+    "maderas cashmere",
+    "vainilla"
+   ]
+  },
+  "source": "https://www.ulta.com/p/sweet-like-candy-eau-de-parfum-xlsImpprod14501028",
+  "verified": true
+ },
+ {
+  "id": "lancome-tresor",
+  "brand": "Lancôme",
+  "name": "Trésor",
+  "concentration": "EDP",
+  "year": 1990,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "flor de albaricoque",
+    "rosa"
+   ],
+   "middle": [
+    "lila",
+    "iris",
+    "durazno"
+   ],
+   "base": [
+    "ámbar",
+    "sándalo",
+    "almizcle",
+    "vainilla"
+   ]
+  },
+  "source": "https://www.lancome-usa.com/fragrance/fragrance-by-collection/tresor/tresor-eau-de-parfum/072025.html",
+  "verified": true
+ },
+ {
+  "id": "carolina-herrera-good-girl-blush",
+  "brand": "Carolina Herrera",
+  "name": "Good Girl Blush",
+  "concentration": "EDP",
+  "year": 2022,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "bergamota",
+    "almendra amarga"
+   ],
+   "middle": [
+    "ylang-ylang",
+    "peonía"
+   ],
+   "base": [
+    "vainilla",
+    "haba tonka"
+   ]
+  },
+  "source": "https://www.carolinaherrera.com/us/en/p-fragrance/good-girl-blush",
+  "verified": true
+ }
+]

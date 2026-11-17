@@ -1,0 +1,583 @@
+[
+ {
+  "id": "maison-francis-kurkdjian-baccarat-rouge-540",
+  "brand": "Maison Francis Kurkdjian",
+  "name": "Baccarat Rouge 540",
+  "concentration": "EDP",
+  "year": 2015,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "azafrán",
+    "jazmín"
+   ],
+   "middle": [
+    "madera de ámbar",
+    "ámbar gris",
+    "hedione"
+   ],
+   "base": [
+    "resina de abeto",
+    "cedro",
+    "azúcar",
+    "ambroxan",
+    "musgo de roble"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/baccarat-rouge-540-maison-francis-kurkdjian.md",
+  "verified": true
+ },
+ {
+  "id": "le-labo-santal-33",
+  "brand": "Le Labo",
+  "name": "Santal 33",
+  "concentration": "EDP",
+  "year": 2011,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "cardamomo",
+    "violeta"
+   ],
+   "middle": [
+    "cedro de Virginia",
+    "papiro"
+   ],
+   "base": [
+    "sándalo",
+    "cuero",
+    "ámbar"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/santal-33-le-labo.md",
+  "verified": true
+ },
+ {
+  "id": "le-labo-another-13",
+  "brand": "Le Labo",
+  "name": "Another 13",
+  "concentration": "EDP",
+  "year": 2010,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "pera",
+    "manzana"
+   ],
+   "middle": [
+    "ambroxan",
+    "musgo",
+    "jazmín"
+   ],
+   "base": [
+    "almizcle",
+    "ambrette"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/another-13-le-labo.md",
+  "verified": true
+ },
+ {
+  "id": "tom-ford-black-orchid",
+  "brand": "Tom Ford",
+  "name": "Black Orchid",
+  "concentration": "EDP",
+  "year": 2006,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "trufa",
+    "gardenia",
+    "grosella negra",
+    "ylang-ylang",
+    "jazmín",
+    "bergamota",
+    "mandarina",
+    "limón de Amalfi"
+   ],
+   "middle": [
+    "orquídea",
+    "especias",
+    "notas frutales",
+    "loto"
+   ],
+   "base": [
+    "chocolate mexicano",
+    "pachulí",
+    "vainilla",
+    "incienso",
+    "ámbar",
+    "sándalo",
+    "vetiver",
+    "almizcle blanco"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/black-orchid-tom-ford.md",
+  "verified": true
+ },
+ {
+  "id": "tom-ford-tobacco-vanille",
+  "brand": "Tom Ford",
+  "name": "Tobacco Vanille",
+  "concentration": "EDP",
+  "year": 2007,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "hoja de tabaco",
+    "notas especiadas"
+   ],
+   "middle": [
+    "vainilla",
+    "cacao",
+    "flor de tabaco",
+    "haba tonka"
+   ],
+   "base": [
+    "frutos secos",
+    "notas amaderadas"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/tobacco-vanille-tom-ford.md",
+  "verified": true
+ },
+ {
+  "id": "maison-margiela-replica-by-the-fireplace",
+  "brand": "Maison Margiela",
+  "name": "Replica By the Fireplace",
+  "concentration": "EDT",
+  "year": 2015,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "clavo",
+    "pimienta rosa",
+    "flor de azahar"
+   ],
+   "middle": [
+    "castaña",
+    "madera de guayacol",
+    "enebro"
+   ],
+   "base": [
+    "vainilla",
+    "bálsamo del Perú",
+    "cashmeran"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/by-the-fireplace-maison-margiela.md",
+  "verified": true
+ },
+ {
+  "id": "lattafa-khamrah",
+  "brand": "Lattafa",
+  "name": "Khamrah",
+  "concentration": "EDP",
+  "year": 2022,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "canela",
+    "nuez moscada",
+    "bergamota"
+   ],
+   "middle": [
+    "dátiles",
+    "praliné",
+    "tuberosa",
+    "mahonial"
+   ],
+   "base": [
+    "vainilla",
+    "haba tonka",
+    "madera de ámbar",
+    "mirra",
+    "benjuí",
+    "akigalawood"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/khamrah-lattafa.md",
+  "verified": true
+ },
+ {
+  "id": "lattafa-yara",
+  "brand": "Lattafa",
+  "name": "Yara",
+  "concentration": "EDP",
+  "year": 2020,
+  "gender": "women",
+  "notes": {
+   "top": [
+    "orquídea",
+    "heliotropo",
+    "mandarina"
+   ],
+   "middle": [
+    "acorde gourmand",
+    "frutas tropicales"
+   ],
+   "base": [
+    "vainilla",
+    "almizcle",
+    "sándalo"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/yara-lattafa.md",
+  "verified": true
+ },
+ {
+  "id": "lattafa-asad",
+  "brand": "Lattafa",
+  "name": "Asad",
+  "concentration": "EDP",
+  "year": 2021,
+  "gender": "men",
+  "notes": {
+   "top": [
+    "pimienta negra",
+    "tabaco",
+    "piña"
+   ],
+   "middle": [
+    "pachulí",
+    "café",
+    "iris"
+   ],
+   "base": [
+    "vainilla",
+    "ámbar",
+    "madera seca",
+    "benjuí",
+    "láudano"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/asad-lattafa.md",
+  "verified": true
+ },
+ {
+  "id": "afnan-9pm",
+  "brand": "Afnan",
+  "name": "9PM",
+  "concentration": "EDP",
+  "year": 2020,
+  "gender": "men",
+  "notes": {
+   "top": [
+    "manzana",
+    "canela",
+    "lavanda silvestre",
+    "bergamota"
+   ],
+   "middle": [
+    "flor de azahar",
+    "lirio de los valles"
+   ],
+   "base": [
+    "vainilla",
+    "haba tonka",
+    "ámbar",
+    "pachulí"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/9pm-afnan.md",
+  "verified": true
+ },
+ {
+  "id": "armaf-club-de-nuit-intense-man",
+  "brand": "Armaf",
+  "name": "Club de Nuit Intense Man",
+  "concentration": "EDT",
+  "year": 2015,
+  "gender": "men",
+  "notes": {
+   "top": [
+    "limón",
+    "piña",
+    "bergamota",
+    "grosella negra",
+    "manzana"
+   ],
+   "middle": [
+    "abedul",
+    "jazmín",
+    "rosa"
+   ],
+   "base": [
+    "almizcle",
+    "ámbar gris",
+    "pachulí",
+    "vainilla"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/club-de-nuit-intense-man-armaf.md",
+  "verified": true
+ },
+ {
+  "id": "orto-parisi-megamare",
+  "brand": "Orto Parisi",
+  "name": "Megamare",
+  "concentration": "Parfum",
+  "year": 2019,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "bergamota",
+    "limón"
+   ],
+   "middle": [
+    "alga marina",
+    "calone",
+    "hedione"
+   ],
+   "base": [
+    "almizcle",
+    "ambroxan",
+    "cedro"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/megamare-orto-parisi.md",
+  "verified": true
+ },
+ {
+  "id": "byredo-gypsy-water",
+  "brand": "Byredo",
+  "name": "Gypsy Water",
+  "concentration": "EDP",
+  "year": 2008,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "bergamota",
+    "limón",
+    "pimienta",
+    "bayas de enebro"
+   ],
+   "middle": [
+    "incienso",
+    "agujas de pino",
+    "iris"
+   ],
+   "base": [
+    "ámbar",
+    "vainilla",
+    "sándalo"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/gypsy-water-byredo.md",
+  "verified": true
+ },
+ {
+  "id": "jo-malone-london-english-pear-freesia",
+  "brand": "Jo Malone London",
+  "name": "English Pear & Freesia",
+  "concentration": "EDC",
+  "year": 2010,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "pera",
+    "melón"
+   ],
+   "middle": [
+    "fresia",
+    "rosa"
+   ],
+   "base": [
+    "almizcle",
+    "pachulí",
+    "ruibarbo",
+    "ámbar"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/english-pear-freesia-jo-malone-london.md",
+  "verified": true
+ },
+ {
+  "id": "jo-malone-london-wood-sage-sea-salt",
+  "brand": "Jo Malone London",
+  "name": "Wood Sage & Sea Salt",
+  "concentration": "EDC",
+  "year": 2014,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "salvia",
+    "pomelo",
+    "sal marina"
+   ],
+   "middle": [
+    "notas florales"
+   ],
+   "base": [
+    "ambrette",
+    "alga marina"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/wood-sage-sea-salt-jo-malone-london.md",
+  "verified": true
+ },
+ {
+  "id": "marc-antoine-barrois-ganymede",
+  "brand": "Marc Antoine Barrois",
+  "name": "Ganymede",
+  "concentration": "EDP",
+  "year": 2019,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "mandarina italiana",
+    "azafrán",
+    "hoja de violeta"
+   ],
+   "middle": [
+    "akigalawood",
+    "osmanto chino",
+    "siempreviva"
+   ],
+   "base": [
+    "gamuza",
+    "notas minerales"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/ganymede-marc-antoine-barrois.md",
+  "verified": true
+ },
+ {
+  "id": "parfums-de-marly-layton",
+  "brand": "Parfums De Marly",
+  "name": "Layton",
+  "concentration": "EDP",
+  "year": 2016,
+  "gender": "men",
+  "notes": {
+   "top": [
+    "manzana",
+    "lavanda",
+    "bergamota",
+    "mandarina"
+   ],
+   "middle": [
+    "geranio",
+    "violeta",
+    "jazmín"
+   ],
+   "base": [
+    "vainilla",
+    "cardamomo",
+    "sándalo",
+    "pimienta",
+    "madera de guayacol",
+    "pachulí"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/layton-parfums-de-marly.md",
+  "verified": true
+ },
+ {
+  "id": "byredo-blanche",
+  "brand": "Byredo",
+  "name": "Blanche",
+  "concentration": "EDP",
+  "year": 2009,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "aldehídos",
+    "rosa centifolia",
+    "pimienta rosa"
+   ],
+   "middle": [
+    "peonía",
+    "violeta"
+   ],
+   "base": [
+    "almizcle",
+    "sándalo",
+    "maderas claras"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/blanche-byredo.md",
+  "verified": true
+ },
+ {
+  "id": "kilian-angels-share",
+  "brand": "Kilian",
+  "name": "Angels' Share",
+  "concentration": "EDP",
+  "year": 2020,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "coñac"
+   ],
+   "middle": [
+    "canela",
+    "haba tonka",
+    "roble",
+    "hedione"
+   ],
+   "base": [
+    "vainilla",
+    "praliné",
+    "sándalo",
+    "almendra confitada"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/angels-share-by-kilian.md",
+  "verified": true
+ },
+ {
+  "id": "amouage-interlude-man",
+  "brand": "Amouage",
+  "name": "Interlude Man",
+  "concentration": "EDP",
+  "year": 2012,
+  "gender": "men",
+  "notes": {
+   "top": [
+    "orégano",
+    "pimienta",
+    "bergamota"
+   ],
+   "middle": [
+    "incienso",
+    "opopónax",
+    "ámbar",
+    "láudano"
+   ],
+   "base": [
+    "agarwood (oud)",
+    "cuero",
+    "sándalo",
+    "pachulí"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/interlude-man-amouage.md",
+  "verified": true
+ },
+ {
+  "id": "diptyque-philosykos",
+  "brand": "Diptyque",
+  "name": "Philosykos",
+  "concentration": "EDT",
+  "year": 1996,
+  "gender": "unisex",
+  "notes": {
+   "top": [
+    "higo",
+    "hoja de higuera"
+   ],
+   "middle": [
+    "notas verdes",
+    "coco",
+    "savia de higuera"
+   ],
+   "base": [
+    "cedro",
+    "madera de higuera"
+   ]
+  },
+  "source": "https://www.scento.com/perfumes/philosykos-diptyque.md",
+  "verified": true
+ }
+]
